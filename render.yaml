@@ -1,0 +1,15 @@
+# Disposable demonstration deployment. Do not store real customer data.
+services:
+  - type: web
+    name: bosfor-restaurant-test
+    runtime: python
+    plan: free
+    region: frankfurt
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 server.py
+    healthCheckPath: /api/health
+    envVars:
+      - key: BOSFOR_HTTPS
+        value: "1"
+      - key: BOSFOR_ADMIN_PASSWORD
+        sync: false

@@ -1,0 +1,567 @@
+{
+  "created_at": 1791126709198,
+  "file_count": 112,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "57edcfdb1c1b101e70c4568cab890230ec08a1df6b29d9090d891699455e0d9c",
+      "size": 169
+    },
+    {
+      "path": "README_PRODUCTION.md",
+      "sha256": "0b68780f11eaf49f6c560c383cdf8fd53ac21bd652b13b4bb7607047c0eee75a",
+      "size": 4980
+    },
+    {
+      "path": "backup.sh",
+      "sha256": "366bd5c9dd5b74f6acc69111ab53cdb2e85c9916e194105ca350b73ec703de2e",
+      "size": 634
+    },
+    {
+      "path": "bosfor/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "bosfor/api_crm.py",
+      "sha256": "11936e195126282a82f7898cae223dd200aef603496aa457cf75ed342efe9114",
+      "size": 1774
+    },
+    {
+      "path": "bosfor/api_delivery.py",
+      "sha256": "f838d62bdfc0290c90588906af3f6e4bb0342e73b3f961729d578a28c1c16b1a",
+      "size": 2665
+    },
+    {
+      "path": "bosfor/api_finance.py",
+      "sha256": "7d8f5e5c7d93cb40fba51ee296cbcc0ba9da2bcb7d95666ad02975682ddab132",
+      "size": 2403
+    },
+    {
+      "path": "bosfor/api_floor.py",
+      "sha256": "a54ec7f05ce95db944cae5d14e753a65d23b01ab628145e3ffd65fe6303ee16f",
+      "size": 1426
+    },
+    {
+      "path": "bosfor/api_inventory.py",
+      "sha256": "c632e31f39dd474a07cb1e14ab3f2dbbcf9df3a0a8d934d40a9377920c88d460",
+      "size": 2465
+    },
+    {
+      "path": "bosfor/api_kitchen.py",
+      "sha256": "17b76e9646692393e27322461ddb88ae54f5c1f9183035c6d8bc3dd6a5af3b73",
+      "size": 953
+    },
+    {
+      "path": "bosfor/api_pos.py",
+      "sha256": "432771622530caf4e21de23a686836f1eb8a6196c127cd9c9f2dce841ad3ba9a",
+      "size": 3294
+    },
+    {
+      "path": "bosfor/api_purchasing.py",
+      "sha256": "621fbbb1c48b85a0c9423b7ec51bda1099393ae63505cb5f3ca61fb6a65801b8",
+      "size": 1856
+    },
+    {
+      "path": "bosfor/api_reservations.py",
+      "sha256": "bc54df63961b215ec2c7930bf02a5f2b2015f98e1013bfd94e5cd9ecdfbe9c30",
+      "size": 2120
+    },
+    {
+      "path": "bosfor/api_staff.py",
+      "sha256": "49859009debbdc9748ca36b055f1a636322866157a4e20d78e48a41866880fe4",
+      "size": 2034
+    },
+    {
+      "path": "bosfor/api_tasks.py",
+      "sha256": "c29c5f7b37beca7c10e33e0973763c9d483f05378f27dc0084e9d9442ff063c9",
+      "size": 2414
+    },
+    {
+      "path": "bosfor/audit.py",
+      "sha256": "6ad409836706b51cdc1832d0268c6fd7e8375c53d55ab66639b47ddfdf395e64",
+      "size": 1616
+    },
+    {
+      "path": "bosfor/auth.py",
+      "sha256": "f6770b9db67782e91fa299dec9d1d9f091e54bcd1c8c023e5fc37e0808ceac18",
+      "size": 5738
+    },
+    {
+      "path": "bosfor/backup.py",
+      "sha256": "35869e561f46c053b6c4a24f3ed62fa0d94263c12158129eed2dc00425236fc7",
+      "size": 5817
+    },
+    {
+      "path": "bosfor/crm.py",
+      "sha256": "1150595d2c8db4ae386d6c1a3d8676ec938a41f9b30ee8e363ea3ad3e789cce8",
+      "size": 8583
+    },
+    {
+      "path": "bosfor/db.py",
+      "sha256": "f4cc432a2e012331b55b3ee9632beb35666731097b0b7c62a9c87617494c8e7e",
+      "size": 754
+    },
+    {
+      "path": "bosfor/delivery.py",
+      "sha256": "323c205f6a445208a2f2ff0a6c04f33134cf4eb6e7c2885a5dac13b62ea3c8bf",
+      "size": 6843
+    },
+    {
+      "path": "bosfor/diagnostics.py",
+      "sha256": "465cc8982fd4bf6170c58d16d24f7fd502cc5156551f3ae2a08574de31ded16f",
+      "size": 2528
+    },
+    {
+      "path": "bosfor/finance.py",
+      "sha256": "12840b480a4afaa1f290023e8c81ae622b9abf067e871fa6274a02cdc3406ff1",
+      "size": 9395
+    },
+    {
+      "path": "bosfor/finance_ledger.py",
+      "sha256": "c53972c1d61cca3096d5198456d825c8c3a4e55016692be98e5e2ceca12209a8",
+      "size": 5683
+    },
+    {
+      "path": "bosfor/inventory.py",
+      "sha256": "fc6b7dcbf57a93fea5cf8f986e9305e9727ba3c37b0fffcc060857dcf7b34d59",
+      "size": 14983
+    },
+    {
+      "path": "bosfor/kitchen.py",
+      "sha256": "84a73e765aa3dcb71f1766fc415f679a8f8b6198c0e72e2741ff0dc542c30877",
+      "size": 7515
+    },
+    {
+      "path": "bosfor/migrations.py",
+      "sha256": "ab4a0c6e055a8742e0741f9513d8102d4c1b58daff5282c649fd2ae476819bca",
+      "size": 26770
+    },
+    {
+      "path": "bosfor/orders.py",
+      "sha256": "a8d72f24c85ed620ed3883b77e42f419eff22034179bbed9ae983c21f1a01ad3",
+      "size": 7191
+    },
+    {
+      "path": "bosfor/purchasing.py",
+      "sha256": "cc0a7d412cc4a297e081e1fe23ad8a803f81d9864710ed76a04fe9e2c9f9da00",
+      "size": 9512
+    },
+    {
+      "path": "bosfor/recipes.py",
+      "sha256": "c41dd10d90af9f3aff52f85332aea58bf7d0ae1317de04b23a55b901d5465bbf",
+      "size": 5522
+    },
+    {
+      "path": "bosfor/release.py",
+      "sha256": "c9cc0db9339a52e2065ffc1d37facbb0f0c8c44cc80d0f8b4592110b1d633f21",
+      "size": 2491
+    },
+    {
+      "path": "bosfor/reports.py",
+      "sha256": "d7efcd37de43afec5db12772bf934fc8612092388d8228df2ac25d3942f3da93",
+      "size": 6103
+    },
+    {
+      "path": "bosfor/reservations.py",
+      "sha256": "c308871027fbb27cd3b313726879a0e797128126bada1c401f0e2f2f4ab46152",
+      "size": 11298
+    },
+    {
+      "path": "bosfor/staff.py",
+      "sha256": "950902586c00672aad80f02cb206e10a48e3252afdf1d1c698f2645685cdf01e",
+      "size": 5846
+    },
+    {
+      "path": "bosfor/tables.py",
+      "sha256": "d739a1c7ac56be1d10de54ffcd531f83b7a6a6e5184961eaf4579f2268b3ec00",
+      "size": 7737
+    },
+    {
+      "path": "bosfor/tasks.py",
+      "sha256": "073d1572d57b8ec86c263f58deafd3cf3fe67cec4e8396818b736db7c7dcdb7e",
+      "size": 5808
+    },
+    {
+      "path": "build_release.py",
+      "sha256": "958299035c2e0871720b7fcb1eb759f355a9431f951ce38ff0b9d3abaad7015c",
+      "size": 444
+    },
+    {
+      "path": "docs/PHASE2_POS_KDS_QA.md",
+      "sha256": "99d0e54014437a21944e7963ad6dd08b68bb7e9efb1aa885e2403272abbf1bba",
+      "size": 2124
+    },
+    {
+      "path": "docs/PHASE3_INVENTORY_QA.md",
+      "sha256": "625714531e86763c480e2f8a60aec4278f33634efb32880b477510e222bbfa4d",
+      "size": 1197
+    },
+    {
+      "path": "docs/PHASE4_OPERATIONS_QA.md",
+      "sha256": "e7a2ce356705456f814400920b691088412bd8341673a35aa13af4c43f97ebd6",
+      "size": 1372
+    },
+    {
+      "path": "docs/PHASE5_CRM_DELIVERY_TASKS_QA.md",
+      "sha256": "8958e7862f626d3d035fd3f947a417063e1d546c3a3274738838b95422725156",
+      "size": 1152
+    },
+    {
+      "path": "docs/QR-site.png",
+      "sha256": "a62fc8f21aade9c171d9617db3a28f7d28c25a1d101497539c6af89cbe389758",
+      "size": 3619
+    },
+    {
+      "path": "docs/README.md",
+      "sha256": "3f5465e560f6e4cda0bc08b8f113e1a0f551068e49d75f3a305284ea2e04c2e4",
+      "size": 183
+    },
+    {
+      "path": "docs/RELEASE_QA.md",
+      "sha256": "184b2ee7114f5bae18b3b9fa96ccaa3aa7fcb6a49cf928aa7ac3c831950159e5",
+      "size": 5447
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-01-foundation-rbac-audit.md",
+      "sha256": "3305f60a33c53231298b6a37edf9c19de679f6ae0648856d0f1e309a1fd902ee",
+      "size": 8063
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-02-pos-floor-kds.md",
+      "sha256": "99a1fe3736fd5252c2e6b14e518d6dbe9fe481854b182ea556617bffbacaa49c",
+      "size": 6711
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-03-inventory-purchasing.md",
+      "sha256": "9cb1a6b53e3957756c2374b534c64249a147f61a592378cb405b22818fc946e4",
+      "size": 5884
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-04-reservations-staff-finance.md",
+      "sha256": "652f278ff85688c279fdfeaf64e4c98e1eb31500c467d89f103e1365baf46546",
+      "size": 4714
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-05-crm-delivery-tasks.md",
+      "sha256": "0692a500d0b49a1528f16a90c2552bb760c76acb2afc2e7f71683de3c23da2bf",
+      "size": 4672
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-06-dashboard-admin-release-qa.md",
+      "sha256": "84457d2921f9c12af17e24e8209f1bc04b4da19c203a58073cc638ed3d37a4d3",
+      "size": 6819
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-04-bosfor-restaurant-os-plan-index.md",
+      "sha256": "47b9e9e6907541f8e374864ae9c4a44104b73b9a17e1064a3a7ae8d7252ffc48",
+      "size": 2977
+    },
+    {
+      "path": "docs/superpowers/specs/2026-10-04-bosfor-restaurant-os-design.md",
+      "sha256": "bc3445a2401b4453e464b8cf7f07045f8f801662e2dc1a90527452be6c8cbb61",
+      "size": 17581
+    },
+    {
+      "path": "public/404.html",
+      "sha256": "aa464d3f70d8b0eabb237fb2edad0c3d1d47222645711c46b7de6cf70ee37602",
+      "size": 1413
+    },
+    {
+      "path": "public/admin/admin.css",
+      "sha256": "47e150624defefde71593f6c43c74387c82b98f20bf1cb2e50a1d9466acef68e",
+      "size": 5688
+    },
+    {
+      "path": "public/admin/api.js",
+      "sha256": "67861c9d791b488eeef1773b3d0534d9f76c15613ab6fa3ef2ffb5b1926211eb",
+      "size": 1416
+    },
+    {
+      "path": "public/admin/app.js",
+      "sha256": "570371eb97fe68040224089c25099465626a0ca20a4ecc23f9f5d480a14c21a4",
+      "size": 2260
+    },
+    {
+      "path": "public/admin/i18n.js",
+      "sha256": "5d9a6242276b6a4c9087405ca6e57de3032288036e36dbc2df37b6240bf1c9e3",
+      "size": 802
+    },
+    {
+      "path": "public/admin/legacy.js",
+      "sha256": "be761ff42a3ae7b2b199e5ac4db68cdc0238c124034aea03fc3bc0de7b1bb5f2",
+      "size": 46865
+    },
+    {
+      "path": "public/admin/modules/audit.js",
+      "sha256": "05597ebfb6a42b6307f765167db285f488e3c546ce3d120555b2ae5ab75c1b9e",
+      "size": 1183
+    },
+    {
+      "path": "public/admin/modules/common.js",
+      "sha256": "9931837b73dd77154dca6586347683824a37cfab1b1388445ff677f01a099603",
+      "size": 768
+    },
+    {
+      "path": "public/admin/modules/delivery.js",
+      "sha256": "38b5d025fd966fae6cf7b975999670dc24d71ccb567aeab95236bcf223871f05",
+      "size": 3777
+    },
+    {
+      "path": "public/admin/modules/finance.js",
+      "sha256": "836155c3e8f15bcca4de689036fb1872ec15a4b98cbd0c907a3cb7cdf25a13be",
+      "size": 5956
+    },
+    {
+      "path": "public/admin/modules/floor.js",
+      "sha256": "ac770b753b9609c44426e12be6821c5ff02a41ad2d7100bee13cd1531cab0427",
+      "size": 2469
+    },
+    {
+      "path": "public/admin/modules/guests.js",
+      "sha256": "9b63280a1512455f48f7233b382180e3b5aec78b5de49ba4c36bf44264028b88",
+      "size": 4757
+    },
+    {
+      "path": "public/admin/modules/inventory.js",
+      "sha256": "580dc999ac525603ca1c431fc855daf68f7242d5f33796256d0f3236a4b32d76",
+      "size": 7897
+    },
+    {
+      "path": "public/admin/modules/kitchen.js",
+      "sha256": "dec524b654d2a2d563eb5e50ee064b743e6e068dad8b4ea61dd1ee7aa9f09031",
+      "size": 2517
+    },
+    {
+      "path": "public/admin/modules/pos.js",
+      "sha256": "7196101f853b5b55b4b434cae81b05eeb589cd1e20f075f14f5b73e2cd53c56a",
+      "size": 5562
+    },
+    {
+      "path": "public/admin/modules/purchasing.js",
+      "sha256": "19ba061a6833c26d2550282480c76cdb48810934d8753cf8c62ee065e7b3794b",
+      "size": 5664
+    },
+    {
+      "path": "public/admin/modules/reports.js",
+      "sha256": "1dbd9d48c2c5f948277477cf7728e1360175efb0d10f07de73244fd3e55f015d",
+      "size": 4055
+    },
+    {
+      "path": "public/admin/modules/reservations.js",
+      "sha256": "e3534db3cb43f57b14ae644d9d5f339cf9faa3b1300fabe0ec61136fbf5154bd",
+      "size": 5383
+    },
+    {
+      "path": "public/admin/modules/staff.js",
+      "sha256": "1bc5386aa8f02f5cbd86cb6beb63c5ed9dbdc98aaf04de5883351f2e5975bf24",
+      "size": 2647
+    },
+    {
+      "path": "public/admin/modules/tasks.js",
+      "sha256": "0188d6f3424c594560402e9274b61eb1ccb5fbd23160e4f8e2d31f20b2ec701d",
+      "size": 4760
+    },
+    {
+      "path": "public/admin/modules/users.js",
+      "sha256": "9246dcf5be656f7c3238c1eefa47b78fa6eb2845da43198cf9679518d28beca0",
+      "size": 2768
+    },
+    {
+      "path": "public/admin/router.js",
+      "sha256": "25dc5124a8f76e438765fcbc119c2bc7ff24351442ac63651b1311ff59b42220",
+      "size": 1391
+    },
+    {
+      "path": "public/admin.html",
+      "sha256": "9cff07d1a5646e7e37d8e8559dd8e1761ba4889cae4e5667c3d0ab2b76beaec1",
+      "size": 40378
+    },
+    {
+      "path": "public/icons/apple-touch-icon.png",
+      "sha256": "6a6b170e373678fb1b9d34ceebd655a97167418f77eeb5c6f92428d5400326e2",
+      "size": 55281
+    },
+    {
+      "path": "public/icons/favicon-64.png",
+      "sha256": "681b3daeed52e8e34c050611f7131e9d95bd8ae57f835af9f306f90fca818148",
+      "size": 7344
+    },
+    {
+      "path": "public/icons/icon-192.png",
+      "sha256": "f5e0d7cbd9f23e5bfe3fa9b6d06c926ded699e42c8df0500de3836c04c33fd7e",
+      "size": 62591
+    },
+    {
+      "path": "public/icons/icon-512.png",
+      "sha256": "ec0089ca265dd54fffbb11322167fb80ae5b256ab3f0fd01624b67c14adef185",
+      "size": 407764
+    },
+    {
+      "path": "public/img/breakfast-en.jpg",
+      "sha256": "6e88d02d92b415482932dea07490fea5ea9e569aa8b8d42cd4e678b59476fa15",
+      "size": 218674
+    },
+    {
+      "path": "public/img/breakfast-tr.jpg",
+      "sha256": "138a8fdf0be269b32cc2d7d0a6fd183215721ce991de5e0303e034e57e4e19da",
+      "size": 195537
+    },
+    {
+      "path": "public/img/burger.jpg",
+      "sha256": "78c9b7debfe98b2a106174c35563568b0decf6ebd4cec028d7b3bc24c91a0010",
+      "size": 183682
+    },
+    {
+      "path": "public/img/coffee.jpg",
+      "sha256": "89cd00c1d1792d38da67e76f4127ff1199be96eb30b1231da2db701bce2b6371",
+      "size": 178027
+    },
+    {
+      "path": "public/img/coffeego.jpg",
+      "sha256": "f834b4fee18cb0abb52ebcc75f012c01bee240be4fb6d3deb5d2fc19df6afb43",
+      "size": 80814
+    },
+    {
+      "path": "public/img/fries.jpg",
+      "sha256": "28cc1fc93644b1367f976ab11771d20ee0693d4b9abccc41d4d4430a701ae8cb",
+      "size": 151119
+    },
+    {
+      "path": "public/img/greek.jpg",
+      "sha256": "97cf42c85719dff402a7546a14086d0d130553134533fb900df1abd6adf04e78",
+      "size": 90637
+    },
+    {
+      "path": "public/img/hero.jpg",
+      "sha256": "7ce4fcceff130178b8dda189a36d9a7b10381821376df0b5b7918a10ed41be29",
+      "size": 289719
+    },
+    {
+      "path": "public/img/interior.jpg",
+      "sha256": "1df7da2b31265d9f0e3d7fcfb8fd5a381804a17ea6834acf17270e4f9231d10c",
+      "size": 249356
+    },
+    {
+      "path": "public/img/khachapuri.jpg",
+      "sha256": "82789af594b7e8a78cc5b0092bc330a63661dadb526835d47b7e1c3b0939ad2a",
+      "size": 168777
+    },
+    {
+      "path": "public/img/logo.png",
+      "sha256": "67a28aa6b4baf43c9b00cd0426f4c444fd0e198b552b18ea5533dcabbcfb7900",
+      "size": 169521
+    },
+    {
+      "path": "public/img/lula.jpg",
+      "sha256": "16c93cf57a3ad1a85d0cbedff9fb83599145ac421df1d5c9f7723c2f6c1ac685",
+      "size": 233032
+    },
+    {
+      "path": "public/img/nuggets.jpg",
+      "sha256": "b64237a7a826fc1cece1dd49b8ce8118b257408d7fe4c6176942eca85d52e837",
+      "size": 163692
+    },
+    {
+      "path": "public/img/pasta.jpg",
+      "sha256": "113177f77c40f4d5553fbebf037d01984d6a7fd084956dfa693d6c4f60268683",
+      "size": 84552
+    },
+    {
+      "path": "public/img/pizza.jpg",
+      "sha256": "5182789c81b3919c38aa4ed7b9477101f94b5b0bf4e53a991502851027af5b6a",
+      "size": 209051
+    },
+    {
+      "path": "public/img/salad.jpg",
+      "sha256": "3179c754133c63da2fe4669136252a455fd38d1cf931686b7c3173b7e61878fb",
+      "size": 176307
+    },
+    {
+      "path": "public/img/sandwich.jpg",
+      "sha256": "1ad23c7472d53b70cf4c1e3683ef224ed842a8ed4e4b89966b12a544da438960",
+      "size": 111645
+    },
+    {
+      "path": "public/img/shashlik.jpg",
+      "sha256": "47e321ac0978fdef343d2916606790080aa2128d85af439e32027177d77fb23f",
+      "size": 208577
+    },
+    {
+      "path": "public/img/shawarma.jpg",
+      "sha256": "65962dfabb2dc052152ae100036b4bb419bbd1117b1e3e5b71f54bcd367ea429",
+      "size": 176455
+    },
+    {
+      "path": "public/img/shawxl.jpg",
+      "sha256": "2b3607ca9ebede8d8f30c12abbea925df779587d825a9b8b8a7c16e36525d810",
+      "size": 96934
+    },
+    {
+      "path": "public/img/steak.jpg",
+      "sha256": "29901b243d176d1d84c64dc801a7c4280a3f87e0e43d04d3e99c95e1f0fc7159",
+      "size": 184852
+    },
+    {
+      "path": "public/img/sushi.jpg",
+      "sha256": "a4502869ef00c8813e08b1b343f4df0b8cb4bf78ad1ff3c09bc696078e930bc9",
+      "size": 158134
+    },
+    {
+      "path": "public/img/teago.jpg",
+      "sha256": "b2fbc36d2dbe567eb04b33bdf2b92ea0ce2350bc53cd5eab873a394dd8e9569e",
+      "size": 77690
+    },
+    {
+      "path": "public/img/wings.jpg",
+      "sha256": "85d0c0bb0a52b31484a450639506924bbfc86a73f43042e4d90a97bce0f574d5",
+      "size": 184730
+    },
+    {
+      "path": "public/index.html",
+      "sha256": "04bba8aede9f2a8e815721f7bf98c2c8cd87c8073ed819b62dfc233f1a3cd660",
+      "size": 110557
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "3ff02f9cb34ef33667010944458c551cbbfb84de7f3611f186b55d4b9aba87e2",
+      "size": 655
+    },
+    {
+      "path": "public/privacy.html",
+      "sha256": "bb7db4c24e10cc070774a74b3c2fc2a614a571c7bd8dca3140cecc11f824d7ec",
+      "size": 2539
+    },
+    {
+      "path": "public/robots.txt",
+      "sha256": "ff89dc26bd72f7fec0fec266b52af75672db894f00dcd4e3b689d91aeabb29fd",
+      "size": 90
+    },
+    {
+      "path": "public/sitemap.xml",
+      "sha256": "fc10acbea5c2a6cfe8e7a4acf697087f0b1851cccdbca24b1f1bcb944ebc1987",
+      "size": 231
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "8669cf25bae873ce1b246f6b2ea465ce9198659f80a9fdd6792e059cec8356d9",
+      "size": 1304
+    },
+    {
+      "path": "requirements-dev.txt",
+      "sha256": "8636f9ab1a075be9f3039e2a6471837259c4f36b625bcaf7a3d9a1edd2419c6d",
+      "size": 34
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "9818a8395dc2fa2a79e764f5cdda0b45eea106d63686b18421c3544de88cff87",
+      "size": 27
+    },
+    {
+      "path": "server.py",
+      "sha256": "c3505d36c312423918700396beda7cc8fce4621a7d2cf655fb09736f98c3bef3",
+      "size": 81925
+    }
+  ],
+  "format": "bosfor-release-v1"
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+private/bosfor.sqlite3
+private/bosfor.sqlite3-*
+private/admin-password.txt
+private/backups/
+*.bak
+
+.worktrees/
+.superpowers/
+
+dist/
+private/restore-*/
